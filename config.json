@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerspdate",
+        "uuid": 1173354,
+        "checksum": "gyl68k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
